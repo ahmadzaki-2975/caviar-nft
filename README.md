@@ -1,4 +1,4 @@
-# Caviar contest details 
+# Caviar contest details test  
 
 - Total Prize Pool: \$36,500 USDC
   - HM awards: \$25,500 USDC
