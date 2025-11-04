@@ -1,5 +1,3 @@
-`testing`
-
 # Caviar contest details
 
 - Total Prize Pool: \$36,500 USDC
